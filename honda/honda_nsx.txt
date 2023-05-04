@@ -1,0 +1,26 @@
+Prestaciones y consumos homologados
+Velocidad máxima	308 km/h
+Consumo NEDC
+Extraurbano	9,9 l/100 km
+Urbano	10,3 l/100 km
+Medio	10 l/100 km
+Emisiones de CO₂ NEDC	228 gr/km
+Normativa de emisiones	Euro 6
+Distintivo ambiental DGT	
+ECOECO
+Dimensiones, peso, capacidades
+Tipo de Carrocería	Coupé
+Número de puertas	2
+Longitud	4.487 mm
+Anchura	1.939 mm
+Altura	1.204 mm
+Batalla	2.630 mm
+Vía delantera	1.659 mm
+Vía trasera	1.620 mm
+Peso	1.851 kg
+Depósito de combustible
+Gasolina	59 l
+Volúmenes de maletero
+Volumen del maletero	110 litros
+Número de plazas	2
+Distribución de asientos	2

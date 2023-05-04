@@ -1,0 +1,50 @@
+Información general
+Marca	Mitsubishi
+Modelo	Eclipse
+Generación	Eclipse IV (4G, facelift 2009)
+Modificación (motor)	GT 3.8L V6 MIVEC (265 CV) Automatic
+Año de la puesta en producción	2009 años
+Año de finalización de la producción	2011 años
+Arquitectura de la unidad de potencia	Motor de combustión interna
+Tipo de carrocería	Coupe, Liftback
+Numero de plazas	4
+Numero de puertas	2
+Rendimiento
+Consumo de combustible urbano	14.7 l/100 km
+16 US mpg
+19.22 UK mpg
+6.8 km/l
+Consumo de combustible extraurbano	9.8 l/100 km
+24 US mpg
+28.82 UK mpg
+10.2 km/l
+Combustible	Gasolina
+Relación peso/potencia	6.1 kg/CV, 164.8 CV/tonelada
+Relación peso/Par	4.5 kg/Nm, 220.8 Nm/tonelada
+Motor
+Potencia máxima	265 CV @ 5750rpm.
+Potencia por litro	69.2 CV/l
+Par máximo	355 Nm @ 4500rpm.
+261.83 lb.-ft. @ 4500rpm.
+Disposición del motor	Frontal, longitudinal
+Modelo del motor/Código del motor	6G75
+Cilindrada -real-	3828 cm3
+233.6 cu. in.
+Número de cilindros	6
+Configuración del motor	Motor en V
+Diámetro del cilindro	95 mm
+3.74 in.
+Recorrido del cilindro	90 mm
+3.54 in.
+Ratio de compresión	10.5
+Número de válvulas por cilindro	4
+Sistema de inyección de combustible	Inyección indirecta multipunto
+Aspiración del motor	Motor atmosférico
+Distribución	SOHC
+Capacidad de aceite del motor	4.3 l
+4.54 US qt | 3.78 UK qt
+Especificación de aceite de motor	Inicie sesión para ver.
+refrigerante	8 l
+8.45 US qt | 7.04 UK qt
+
+2009 Mitsubishi Eclipse IV (4G, facelift 2009) GT 3.8L V6 MIVEC (265 CV) Automatic | Ficha técnica y consumo

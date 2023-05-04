@@ -1,0 +1,47 @@
+Información general
+Marca	Volkswagen
+Modelo	Jetta
+Generación	Jetta V
+Modificación (motor)	2.5i (170 CV)
+Año de la puesta en producción	2005 años
+Año de finalización de la producción	2010 años
+Arquitectura de la unidad de potencia	Motor de combustión interna
+Tipo de carrocería	Berlina
+Numero de plazas	5
+Numero de puertas	4
+Rendimiento
+Consumo de combustible urbano	11.2 l/100 km
+21 US mpg
+25.22 UK mpg
+8.93 km/l
+Consumo de combustible extraurbano	8.1 l/100 km
+29.04 US mpg
+34.87 UK mpg
+12.35 km/l
+Combustible	Gasolina
+Aceleración 0 - 60 mph	8.4 s
+Motor
+Potencia máxima	170 CV
+Potencia por litro	68.5 CV/l
+Par máximo	240 Nm
+177.01 lb.-ft.
+Disposición del motor	Frontal, longitudinal
+Modelo del motor/Código del motor	BPR, BPS
+Cilindrada -real-	2480 cm3
+151.34 cu. in.
+Número de cilindros	5
+Configuración del motor	En línea
+Número de válvulas por cilindro	4
+Sistema de inyección de combustible	Inyección indirecta multipunto
+Aspiración del motor	Motor atmosférico
+Distribución	DOHC
+Capacidad de aceite del motor	6 l
+6.34 US qt | 5.28 UK qt
+Especificación de aceite de motor	Inicie sesión para ver.
+Volumen y peso
+Capacidad maletero min.	368 l
+13 cu. ft.
+Capacidad depósito	55 l
+14.53 US gal | 12.1 UK gal
+
+2005 Volkswagen Jetta V 2.5i (170 CV) | Ficha técnica y consumo 

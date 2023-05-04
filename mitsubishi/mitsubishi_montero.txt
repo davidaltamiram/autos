@@ -1,0 +1,76 @@
+Marca	Mitsubishi
+Modelo	Montero Sport
+Generación	Montero Sport III
+Modificación (motor)	3.0 MIVEC V6 (219 CV) Super Select 4WD Automatic
+Año de la puesta en producción	2015 años
+Año de finalización de la producción	2019 años
+Arquitectura de la unidad de potencia	Motor de combustión interna
+Tipo de carrocería	Todoterreno, SUV
+Numero de plazas	7
+Numero de puertas	5
+Rendimiento
+Combustible	Gasolina
+Velocidad máxima	182 km/h
+113.09 mph
+Clasificación de los gases de escape	Euro 2
+Relación peso/potencia	9 kg/CV, 110.6 CV/tonelada
+Relación peso/Par	6.9 kg/Nm, 143.9 Nm/tonelada
+Motor
+Potencia máxima	219 CV @ 6000rpm.
+Potencia por litro	73 CV/l
+Par máximo	285 Nm @ 4000rpm.
+210.21 lb.-ft. @ 4000rpm.
+Disposición del motor	Frontal, longitudinal
+Modelo del motor/Código del motor	6B31
+Cilindrada -real-	2998 cm3
+182.95 cu. in.
+Número de cilindros	6
+Configuración del motor	Motor en V
+Diámetro del cilindro	87.6 mm
+3.45 in.
+Recorrido del cilindro	82.9 mm
+3.26 in.
+Ratio de compresión	9.5
+Número de válvulas por cilindro	4
+Sistema de inyección de combustible	Inyección indirecta multipunto
+Aspiración del motor	Motor atmosférico
+Distribución	SOHC
+Capacidad de aceite del motor	4.3 l
+4.54 US qt | 3.78 UK qt
+refrigerante	11 l
+11.62 US qt | 9.68 UK qt
+Volumen y peso
+Peso en orden de marcha	1980 kg
+4365.15 lbs.
+Peso máximo admisible	2600 kg
+5732.02 lbs.
+Carga máxima	620 kg
+1366.87 lbs.
+Capacidad depósito	70 l
+18.49 US gal | 15.4 UK gal
+Medidas
+Longitud	4785 mm
+188.39 in.
+Anchura	1815 mm
+71.46 in.
+Altura	1805 mm
+71.06 in.
+Distancia entre ejes	2800 mm
+110.24 in.
+Vía delantera	1520 mm
+59.84 in.
+Vía trasera	1515 mm
+59.65 in.
+voladizo delantero	880 mm
+34.65 in.
+voladizo trasero	1105 mm
+43.5 in.
+Distancia al suelo	218 mm
+8.58 in.
+Diámetro giro	11.2 m
+36.75 ft.
+Ángulo de aproximación	30°
+Ángulo de salida	24.2°
+ángulo de rampa	23.1°
+
+2015 Mitsubishi Montero Sport III 3.0 MIVEC V6 (219 CV) Super Select 4WD Automatic | Ficha técnica y consumo 

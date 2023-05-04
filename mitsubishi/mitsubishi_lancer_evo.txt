@@ -1,0 +1,69 @@
+Información general
+Marca	Mitsubishi
+Modelo	Lancer Evolution
+Generación	Lancer Evolution X
+Modificación (motor)	2.0 MIVEC FQ-360 (359 CV) S-AWC
+Año de la puesta en producción	2008 años
+Año de finalización de la producción	2014 años
+Arquitectura de la unidad de potencia	Motor de combustión interna
+Tipo de carrocería	Berlina
+Numero de plazas	5
+Numero de puertas	4
+Rendimiento
+Consumo de combustible urbano	21.9 l/100 km
+10.74 US mpg
+12.9 UK mpg
+4.57 km/l
+Consumo de combustible extraurbano	10.5 l/100 km
+22.4 US mpg
+26.9 UK mpg
+9.52 km/l
+Consumo de combustible combinado	14.2 l/100 km
+16.56 US mpg
+19.89 UK mpg
+7.04 km/l
+Emisión CO2 Ponderada	328 gr/km
+Combustible	Gasolina
+Aceleración 0 - 100 km/h	4.1 s
+Aceleración 0 - 62 mph	4.1 s
+Aceleración 0 - 60 mph (Calculado por Auto-Data.net)	3.9 s
+Velocidad máxima	250 km/h
+155.34 mph
+Relación peso/potencia	4.3 kg/CV, 230.1 CV/tonelada
+Relación peso/Par	4.3 kg/Nm, 232.7 Nm/tonelada
+Motor
+Potencia máxima	359 CV @ 6500rpm.
+Potencia por litro	179.7 CV/l
+Par máximo	363 Nm @ 3500rpm.
+267.74 lb.-ft. @ 3500rpm.
+Disposición del motor	Frontal, transversal
+Modelo del motor/Código del motor	4B11T
+Cilindrada -real-	1998 cm3
+121.93 cu. in.
+Número de cilindros	4
+Configuración del motor	En línea
+Diámetro del cilindro	86 mm
+3.39 in.
+Recorrido del cilindro	86 mm
+3.39 in.
+Ratio de compresión	9
+Número de válvulas por cilindro	4
+Sistema de inyección de combustible	Inyección indirecta multipunto
+Aspiración del motor	Turbocompresor, Intercooler
+Distribución	DOHC
+Capacidad de aceite del motor	5.6 l
+5.92 US qt | 4.93 UK qt
+Especificación de aceite de motor	Inicie sesión para ver.
+refrigerante	7.5 l
+7.93 US qt | 6.6 UK qt
+Volumen y peso
+Peso en orden de marcha	1560 kg
+3439.21 lbs.
+Peso máximo admisible	2040 kg
+4497.43 lbs.
+Carga máxima	480 kg
+1058.22 lbs.
+Capacidad depósito	55 l
+14.53 US gal | 12.1 UK gal
+
+2008 Mitsubishi Lancer Evolution X 2.0 MIVEC FQ-360 (359 CV) S-AWC | Ficha técnica y consumo 

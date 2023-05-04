@@ -1,0 +1,16 @@
+Prestaciones
+Velocidad máxima	175 km/h
+Aceleración 0-100 km/h	13,0 s
+Consumo (urbano/extraurbano/mixto)	6.9/4.7/5.5 l/100 km
+CO2	128
+Dimensiones
+Carrocería	monovolumen
+Largo/Ancho/Alto	3.900 / 1.695 / 1.525 mm
+Batalla/Vía del-tras	2.500 / 1.480 mm - 1.460 mm
+Peso	1.140 kg
+Peso remolcable sin freno/con freno	450 / 1.000 kg
+Carga máxima	395 kg
+Depósito	42 litros
+Maletero min	401 litros
+Maletero max	1.320 litros
+Plazas	5

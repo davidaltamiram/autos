@@ -1,0 +1,26 @@
+Prestaciones y consumos homologados
+Velocidad máxima	200 km/h
+Aceleración 0-100 km/h	9,4 s
+Consumo WLTP
+Combinado	5,1 l/100 km
+Emisiones de CO₂ WLTP	116 gr/km
+Normativa de emisiones	Euro 6
+Distintivo ambiental DGT	
+ECOECO
+Dimensiones, peso, capacidades
+Tipo de Carrocería	Turismo
+Número de puertas	5
+Longitud	4.068 mm
+Anchura	1.756 mm
+Altura	1.509 mm
+Batalla	2.493 mm
+Coeficiente Cx	No disponible
+Superficie frontal	No disponible
+Peso	1.211 kg
+Depósito de combustible
+Gasolina	42 l
+Volúmenes de maletero
+Volumen con una fila de asientos disponible	1.093 litros
+Volumen mínimo con dos filas de asientos disponibles	311 litros
+Número de plazas	5
+Distribución de asientos	2 + 3

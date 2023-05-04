@@ -1,0 +1,63 @@
+Información general
+Marca	Volkswagen
+Modelo	Golf
+Generación	Golf VIII
+Modificación (motor)	R 2.0 TSI (315 CV) 4MOTION DSG
+Año de la puesta en producción	2021 años
+Arquitectura de la unidad de potencia	Motor de combustión interna
+Tipo de carrocería	Hatchback
+Numero de plazas	5
+Numero de puertas	5
+Rendimiento
+Consumo de combustible urbano (EPA)	10.2 l/100 km
+23.06 US mpg
+27.69 UK mpg
+9.8 km/l
+Consumo de combustible extraurbano (EPA)	7.8 l/100 km
+30.16 US mpg
+36.22 UK mpg
+12.82 km/l
+Consumo de combustible combinado (EPA)	9 l/100 km
+26.13 US mpg
+31.39 UK mpg
+11.11 km/l
+Combustible	Gasolina
+Relación peso/potencia	5 kg/CV, 199.5 CV/tonelada
+Relación peso/Par	3.9 kg/Nm, 253.3 Nm/tonelada
+Motor
+Potencia máxima	315 CV @ 5600-6500rpm.
+Potencia por litro	158.8 CV/l
+Par máximo	400 Nm @ 2000-5600rpm.
+295.02 lb.-ft. @ 2000-5600rpm.
+Disposición del motor	Frontal, transversal
+Modelo del motor/Código del motor	EA888
+Cilindrada -real-	1984 cm3
+121.07 cu. in.
+Número de cilindros	4
+Configuración del motor	En línea
+Diámetro del cilindro	82.5 mm
+3.25 in.
+Recorrido del cilindro	92.8 mm
+3.65 in.
+Ratio de compresión	9.3
+Número de válvulas por cilindro	4
+Sistema de inyección de combustible	inyección directa
+Aspiración del motor	Turbocompresor, Intercooler
+Distribución	DOHC
+Especificación de aceite de motor	Inicie sesión para ver.
+Sistemas de motor	Start / Stop sistema
+Volumen y peso
+Peso en orden de marcha	1579 kg
+3481.1 lbs.
+Peso máximo admisible	2050 kg
+4519.48 lbs.
+Carga máxima	471 kg
+1038.38 lbs.
+Capacidad maletero min.	564 l
+19.92 cu. ft.
+Capacidad maletero max.	977 l
+34.5 cu. ft.
+Capacidad depósito	55 l
+14.53 US gal | 12.1 UK gal
+
+2021 Volkswagen Golf VIII R 2.0 TSI (315 CV) 4MOTION DSG | Ficha técnica y consumo 

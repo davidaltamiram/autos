@@ -1,0 +1,73 @@
+Información general
+Marca	Mitsubishi
+Modelo	Outlander
+Generación	Outlander IV
+Modificación (motor)	2.4 MIVEC (252 CV) PHEV 4WD
+Año de la puesta en producción	Octubre, 2021 años
+Arquitectura de la unidad de potencia	PHEV (Vehículo híbrido eléctrico enchufable)
+Tipo de carrocería	SUV, Crossover
+Numero de plazas	5-7
+Numero de puertas	5
+Rendimiento
+Consumo de combustible combinado (WLTC)	6-6.3 l/100 km
+39.2 - 37.34 US mpg
+47.08 - 44.84 UK mpg
+16.67 - 15.87 km/l
+Combustible	Gasolina / electricidad
+Relación peso/potencia	8 kg/CV, 124.8 CV/tonelada
+Relación peso/Par	4.5 kg/Nm, 222.8 Nm/tonelada
+Coches electricos y híbridos
+Capacidad bruta de batería	20 kWh
+Voltaje de la batería	350 V
+Tecnología de almacenamiento de la batería	Iones de litio (Li-Ion)
+Autonomía eléctrica (WLTC)	83-87 km
+51.57 - 54.06 mi
+El consumo medio de energía (WLTC)	22.7-23.9 kWh/100 km
+36.53 - 38.46 kWh/100 mi
+92 - 88 MPGe
+4.4 - 4.2 km/kWh
+2.7 - 2.6 mi/kWh
+Motor electrico 1
+Potencia motor eléctrico	116 CV
+Par máximo motor Eléctrico	255 Nm
+188.08 lb.-ft.
+Modelo/código del motor eléctrico	S91
+Ubicación del motor eléctrico.	Eje frontal, transversal
+Tipo de motor eléctrico	Sincrónico
+Motor electrico 2
+Potencia motor eléctrico	136 CV
+Par máximo motor Eléctrico	195 Nm
+143.82 lb.-ft.
+Modelo/código del motor eléctrico	YA1
+Ubicación del motor eléctrico.	Eje Trasero, transversal
+Tipo de motor eléctrico	Sincrónico
+Potencia del sistema	252 CV
+450 Nm
+331.9 lb.-ft.
+Motor de combustión interna
+Potencia máxima	133 CV @ 5000rpm.
+Potencia por litro	56.4 CV/l
+Par máximo	195 Nm @ 4300rpm.
+143.82 lb.-ft. @ 4300rpm.
+Disposición del motor	Frontal, transversal
+Modelo del motor/Código del motor	4B12
+Cilindrada -real-	2360 cm3
+144.02 cu. in.
+Número de cilindros	4
+Configuración del motor	En línea
+Diámetro del cilindro	88 mm
+3.46 in.
+Recorrido del cilindro	97 mm
+3.82 in.
+Ratio de compresión	11.8
+Número de válvulas por cilindro	4
+Sistema de inyección de combustible	Inyección indirecta multipunto
+Aspiración del motor	Motor atmosférico
+Distribución	DOHC
+Capacidad de aceite del motor	4.6 l
+4.86 US qt | 4.05 UK qt
+Especificación de aceite de motor	Inicie sesión para ver.
+refrigerante	7.5 l
+7.93 US qt | 6.6 UK qt
+
+2021 Mitsubishi Outlander IV 2.4 MIVEC (252 CV) PHEV 4WD | Ficha técnica y consumo 

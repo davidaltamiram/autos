@@ -1,0 +1,6 @@
+Tipos de carrocerías: Todo Terreno
+Puertas: 5
+Configuración de cilindros: Motor en línea
+Dimensiones: 4,695 mm L x 1,680 mm A
+Tren motriz: Tracción delantera
+Motor: 1.5 L 4 motor en línea, 2.0 L 4 motor en línea

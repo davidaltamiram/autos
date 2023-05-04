@@ -1,0 +1,68 @@
+Información general
+Marca	Volkswagen
+Modelo	Pointer
+Generación	Pointer
+Modificación (motor)	1.8 i (100 CV)
+Año de la puesta en producción	2005 años
+Año de finalización de la producción	2006 años
+Arquitectura de la unidad de potencia	Motor de combustión interna
+Tipo de carrocería	Hatchback
+Numero de plazas	5
+Numero de puertas	5
+Rendimiento
+Consumo de combustible urbano	9.2 l/100 km
+25.57 US mpg
+30.7 UK mpg
+10.87 km/l
+Consumo de combustible extraurbano	6.4 l/100 km
+36.75 US mpg
+44.14 UK mpg
+15.63 km/l
+Combustible	Gasolina
+Aceleración 0 - 100 km/h	11.3 s
+Aceleración 0 - 62 mph	11.3 s
+Aceleración 0 - 60 mph (Calculado por Auto-Data.net)	10.7 s
+Velocidad máxima	180 km/h
+111.85 mph
+Relación peso/potencia	9.9 kg/CV, 101.5 CV/tonelada
+Relación peso/Par	6.1 kg/Nm, 163.5 Nm/tonelada
+Motor
+Potencia máxima	100 CV @ 5250rpm.
+Potencia por litro	56.1 CV/l
+Par máximo	161 Nm @ 3000rpm.
+118.75 lb.-ft. @ 3000rpm.
+Disposición del motor	Frontal, longitudinal
+Cilindrada -real-	1781 cm3
+108.68 cu. in.
+Número de cilindros	4
+Configuración del motor	En línea
+Diámetro del cilindro	81 mm
+3.19 in.
+Recorrido del cilindro	86.4 mm
+3.4 in.
+Número de válvulas por cilindro	2
+Sistema de inyección de combustible	Inyección indirecta multipunto
+Aspiración del motor	Motor atmosférico
+Especificación de aceite de motor	Inicie sesión para ver.
+Volumen y peso
+Peso en orden de marcha	985 kg
+2171.55 lbs.
+Capacidad maletero min.	285 l
+10.06 cu. ft.
+Capacidad depósito	51 l
+13.47 US gal | 11.22 UK gal
+Medidas
+Longitud	3916 mm
+154.17 in.
+Anchura	1621 mm
+63.82 in.
+Altura	1415 mm
+55.71 in.
+Distancia entre ejes	2468 mm
+97.17 in.
+Vía delantera	1388 mm
+54.65 in.
+Vía trasera	1384 mm
+54.49 in.
+
+2005 Volkswagen Pointer 1.8 i (100 CV) | Ficha técnica y consumo 

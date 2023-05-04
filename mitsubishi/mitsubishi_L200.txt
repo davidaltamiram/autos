@@ -1,0 +1,55 @@
+Marca	Mitsubishi
+Modelo	L200
+Generación	L200 V Double Cab (facelift 2019)
+Modificación (motor)	2.3d (150 CV) 4WD Automatic
+Año de la puesta en producción	Septiembre, 2019 años
+Arquitectura de la unidad de potencia	Motor de combustión interna
+Tipo de carrocería	Pick-up
+Numero de plazas	5
+Numero de puertas	4
+Rendimiento
+Consumo de combustible combinado (WLTP)	9.7 l/100 km
+24.25 US mpg
+29.12 UK mpg
+10.31 km/l
+Emisión CO2 Ponderada (WLTP)	254 gr/km
+Consumo de combustible combinado (NEDC, WLTP equivalente)	7.8 l/100 km
+30.16 US mpg
+36.22 UK mpg
+12.82 km/l
+Emisión CO2 Ponderada (NEDC, WLTP equivalente)	206 gr/km
+Combustible	Diesel
+Velocidad máxima	171 km/h
+106.25 mph
+Clasificación de los gases de escape	Euro 6d-Temp
+Relación peso/potencia	13.1 kg/CV, 76.1 CV/tonelada
+Relación peso/Par	4.9 kg/Nm, 203 Nm/tonelada
+Motor
+Potencia máxima	150 CV @ 3500rpm.
+Potencia por litro	66.1 CV/l
+Par máximo	400 Nm @ 2000rpm.
+295.02 lb.-ft. @ 2000rpm.
+Disposición del motor	Frontal, longitudinal
+Modelo del motor/Código del motor	4N14
+Cilindrada -real-	2268 cm3
+138.4 cu. in.
+Número de cilindros	4
+Configuración del motor	En línea
+Diámetro del cilindro	86 mm
+3.39 in.
+Recorrido del cilindro	97.6 mm
+3.84 in.
+Ratio de compresión	14.4
+Número de válvulas por cilindro	4
+Sistema de inyección de combustible	Diesel commonrail
+Aspiración del motor	Turbocompresor, Intercooler
+Distribución	DOHC
+Capacidad de aceite del motor	6.6 l
+6.97 US qt | 5.81 UK qt
+Especificación de aceite de motor	Inicie sesión para ver.
+refrigerante	7.7 l
+8.14 US qt | 6.78 UK qt
+Sistemas de motor	Start / Stop sistema
+Filtro antipartículas
+
+2019 Mitsubishi L200 V Double Cab (facelift 2019) 2.3d (150 CV) 4WD Automatic | Ficha técnica y consumo 

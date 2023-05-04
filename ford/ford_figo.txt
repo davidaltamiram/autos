@@ -1,0 +1,51 @@
+Información general
+Marca	Ford
+Modelo	Figo
+Generación	Figo Aspire II
+Modificación (motor)	1.5 TDCi (100 CV)
+Año de la puesta en producción	2015 años
+Año de finalización de la producción	2018 años
+Arquitectura de la unidad de potencia	Motor de combustión interna
+Tipo de carrocería	Berlina
+Numero de plazas	5
+Numero de puertas	4
+Rendimiento
+Combustible	Diesel
+Motor
+Potencia máxima	100 CV @ 3750rpm.
+Potencia por litro	66.8 CV/l
+Par máximo	215 Nm @ 1750-3000rpm.
+158.58 lb.-ft. @ 1750-3000rpm.
+Disposición del motor	Frontal, transversal
+Cilindrada -real-	1498 cm3
+91.41 cu. in.
+Número de cilindros	4
+Configuración del motor	En línea
+Ratio de compresión	16
+Número de válvulas por cilindro	4
+Sistema de inyección de combustible	Diesel commonrail
+Aspiración del motor	Turbocompresor, Intercooler
+Volumen y peso
+Capacidad maletero min.	359 l
+12.68 cu. ft.
+Capacidad depósito	40 l
+10.57 US gal | 8.8 UK gal
+Medidas
+Longitud	3995 mm
+157.28 in.
+Anchura	1695 mm
+66.73 in.
+Altura	1525 mm
+60.04 in.
+Distancia entre ejes	2491 mm
+98.07 in.
+Vía delantera	1492 mm
+58.74 in.
+Vía trasera	1484 mm
+58.43 in.
+Distancia al suelo	174 mm
+6.85 in.
+Diámetro giro	9.8 m
+32.15 ft.
+
+2015 Ford Figo Aspire II 1.5 TDCi (100 CV) | Ficha técnica y consumo

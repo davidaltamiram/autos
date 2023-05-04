@@ -1,0 +1,49 @@
+Información general
+Marca	Ford
+Modelo	Mustang
+Generación	Mustang Convertible VII
+Modificación (motor)	GT 5.0 V8 SelectShift
+Año de la puesta en producción	2023 años
+Arquitectura de la unidad de potencia	Motor de combustión interna
+Tipo de carrocería	Cabriolet
+Numero de plazas	4
+Numero de puertas	2
+Rendimiento
+Combustible	Gasolina
+Motor
+Disposición del motor	Frontal, longitudinal
+Cilindrada -real-	5031 cm3
+307.01 cu. in.
+Número de cilindros	8
+Configuración del motor	Motor en V
+Diámetro del cilindro	93 mm
+3.66 in.
+Recorrido del cilindro	92.71 mm
+3.65 in.
+Ratio de compresión	12
+Sistema de inyección de combustible	Inyección directa / Inyección indirecta multipunto
+Aspiración del motor	Motor atmosférico
+Distribución	DOHC, Ti-VCT
+Sistemas de motor	Start / Stop sistema
+Volumen y peso
+Peso en orden de marcha	1784 kg
+3933.05 lbs.
+Capacidad maletero min.	292 l
+10.31 cu. ft.
+Medidas
+Longitud	4811 mm
+189.41 in.
+Anchura	1915 mm
+75.39 in.
+Anchura incluidos los espejos	2080 mm
+81.89 in.
+Altura	1392 mm
+54.8 in.
+Distancia entre ejes	2718 mm
+107.01 in.
+Vía delantera	1575 mm
+62.01 in.
+Vía trasera	1643 mm
+64.69 in.
+
+2023 Ford Mustang Convertible VII GT 5.0 V8 SelectShift | Ficha técnica y consumo 

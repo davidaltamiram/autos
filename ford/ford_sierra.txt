@@ -1,0 +1,50 @@
+Información general
+Marca	Ford
+Modelo	Sierra
+Generación	Sierra Hatchback II
+Modificación (motor)	2.0i (101 CV) Automatic
+Año de la puesta en producción	1987 años
+Año de finalización de la producción	1993 años
+Arquitectura de la unidad de potencia	Motor de combustión interna
+Tipo de carrocería	Hatchback
+Numero de plazas	5
+Numero de puertas	5
+Rendimiento
+Combustible	Gasolina
+Motor
+Potencia máxima	101 CV @ 5400rpm.
+Potencia por litro	50.7 CV/l
+Par máximo	148 Nm @ 4000rpm.
+109.16 lb.-ft. @ 4000rpm.
+Disposición del motor	Frontal, longitudinal
+Cilindrada -real-	1993 cm3
+121.62 cu. in.
+Número de cilindros	4
+Configuración del motor	En línea
+Diámetro del cilindro	90.8 mm
+3.57 in.
+Recorrido del cilindro	77 mm
+3.03 in.
+Número de válvulas por cilindro	2
+Sistema de inyección de combustible	Inyección Mono-punto
+Aspiración del motor	Motor atmosférico
+Volumen y peso
+Capacidad depósito	60 l
+15.85 US gal | 13.2 UK gal
+Medidas
+Longitud	4425 mm
+174.21 in.
+Anchura	1694 mm
+66.69 in.
+Altura	1407 mm
+55.39 in.
+Distancia entre ejes	2608 mm
+102.68 in.
+Vía delantera	1452 mm
+57.17 in.
+Vía trasera	1468 mm
+57.8 in.
+Diámetro giro	10 m
+32.81 ft.
+
+1987 Ford Sierra Hatchback II 2.0i (101 CV) Automatic | Ficha técnica y consumo 
